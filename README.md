@@ -75,7 +75,7 @@ A collection of HTML and CSS snippets for creating floating action buttons on yo
 ## Support (Bootstrap & Font Awesome)
 
 ```html
-<a href="https://web.whatsapp.com/send?phone=1231234567" class="position-fixed bottom-0 end-0 mb-3 me-3 bg-primary text-white rounded-circle d-flex justify-content-center align-items-center shadow" style="width: 60px; height: 60px; font-size: 30px; z-index: 100;">
+<a href="contact.html" class="position-fixed bottom-0 end-0 mb-3 me-3 bg-primary text-white rounded-circle d-flex justify-content-center align-items-center shadow" style="width: 60px; height: 60px; font-size: 30px; z-index: 100;">
   <i class="fa fa-solid fa-headset"></i>
 </a>
 ```
